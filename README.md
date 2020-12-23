@@ -10,8 +10,10 @@ This repository hosts the code used in the manuscript "MACHINE LEARNING IMPROVES
 
 (4) Department of Bioengineering, Imperial College London, London, UK
 
-Data
+Data 
+
 data used for training and testing
 
 AI_model_IUGR.ipynb
+
 code used to train model and evaluate the model. 
