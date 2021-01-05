@@ -1,4 +1,4 @@
-# Fetal-Growth-Restriction-Detection
+# Small-for-Gestaional_Age_Prediction
 
 This repository hosts the code used in the manuscript "MACHINE LEARNING IMPROVES EARLY PREDICTION OF SMALL-FOR-GESTATIONAL-AGE BIRTHS AND REVEALS NUCHAL FOLD THICKNESS AS UNEXPECTED PREDICTOR" by Shier Nee Saw (1,3), Arijit BISWAS (2), Citra Nurfarah Zaini MATTAR (2), Hwee Kuan LEE(1), Choon Hwai YAP (4)
 
